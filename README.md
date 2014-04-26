@@ -1,4 +1,4 @@
 MNIW
 ====
 
-C-speed Matrix-Normal-Inverse-Wishart sampler, for R
+You are probably looking for [this](https://github.com/kousu/stat440).
